@@ -1,0 +1,13 @@
+{
+    "name": "Elsevier",
+    "icons": [
+        { "src": "/images/elsevier-icon-192.png", "type": "image/png", "sizes": "192x192" },
+        { "src": "/images/elsevier-icon-512.png", "type": "image/png", "sizes": "512x512" },
+        {
+            "src": "/images/elsevier-icon-maskable-192.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable"
+        }
+    ]
+}
